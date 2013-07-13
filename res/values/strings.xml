@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CugbGateway</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">CUGB网关管理</string>
+    <string name="username">用户名</string>
+    <string name="password">密  码</string>
+    <string name="button_login">连接</string>
+    <string name="button_logout">下线</string>
+
+</resources>
