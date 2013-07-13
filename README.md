@@ -1,5 +1,4 @@
-cugbGateway
-===========
+# cugbGateway
 
-==What is this?==
+## What is this?
 A android app for connect/disconnect your cugb network.
